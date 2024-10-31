@@ -106,3 +106,11 @@ footer p {
     margin: 5px 0;
     font-size: 16px;
 }
+.img img {
+    border-radius: 12px;
+    height: 420px;
+}
+.img img:hover {
+    transform: scale(1.1);
+    transition: 400ms ease;
+}
