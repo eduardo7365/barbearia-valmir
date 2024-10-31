@@ -108,7 +108,7 @@ footer p {
 }
 .img img {
     border-radius: 12px;
-    height: 420px;
+    height: 340px;
 }
 .img img:hover {
     transform: scale(1.1);
