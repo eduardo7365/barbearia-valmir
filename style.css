@@ -88,6 +88,7 @@ nav ul li a {
     margin: 10px;
 }
 
+
 .galeria-item img {
     width: 300px;
     height: 200px;
@@ -113,4 +114,13 @@ footer p {
 .img img:hover {
     transform: scale(1.1);
     transition: 400ms ease;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.img img {
+    height: 600px;
 }
